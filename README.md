@@ -5,9 +5,9 @@
 
 ## About Me: 
 - 👨🏼‍💻 I'm an Information Technology Student at the University of Cincinnati
-- 🚀 I'm currently working on different Java JFrame personal projects (check out some of my repositories!)
+- 🚀 I'm currently working on my personal website and some in-class projects (check out some of my repositories!)
 - 🤖 I'm wanting to learn more about automation and how I can use it on some of my daily tasks to make life easier
-- 📆 I'm looking for an internship/Co-op for the Summer 2022
+- 📆 I'm looking for an internship/Co-op for the Summer 2023
 - 📧 How to reach out to me: nate10nate@gmail.com
 - 📄 My [Resume]
 
@@ -26,4 +26,4 @@
 <img align="left" alt="Visual Studio" width="26px" src="https://img.icons8.com/color/48/000000/visual-studio.png" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png" style="padding-right:10px;" />
 
-[Resume]: https://drive.google.com/file/d/1Lb3inNRcjoSNnzkm93cisNn3FQCnNCgA/view?usp=sharing
+[Resume]: https://drive.google.com/file/d/1uy11GK_e6C5v-qbbClpXLhFEbW7V6SMb/view?usp=sharing
