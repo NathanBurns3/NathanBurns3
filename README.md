@@ -16,17 +16,18 @@
 ## Languages and Tools:
 <img align="left" alt="Java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" style="padding-right:10px;" />
 <img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python--v1.png" style="padding-right:10px;" />
-<img align="left" alt="C#" width="26px" src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png" style="padding-right:10px;" />
+<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C++" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt=".NET Core" width="26px" src="https://img.icons8.com/color/48/000000/net-framework.png" style="padding-right:10px;" />
-<img align="left" alt="SQL" width="26px" src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/64/000000/external-sql-server-big-data-wanicon-lineal-color-wanicon.png" style="padding-right:10px;" />
+<img align="left" alt=".NET Core" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="SQL" width="26px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" style="padding-right:10px;" />
 <img align="left" alt="Intellij" width="26px" src="https://img.icons8.com/color/48/000000/intellij-idea.png" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio" width="26px" src="https://img.icons8.com/color/48/000000/visual-studio.png" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png" style="padding-right:10px;" /> <br>
+<img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png" style="padding-right:10px;" />
+<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="padding-right:10px;" /><br>
 
 ##
 <img align="left" alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanBurns3" />
