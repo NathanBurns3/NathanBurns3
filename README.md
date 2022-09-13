@@ -4,6 +4,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-burns-717802170/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/nathan.burnss/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nate10nate@gmail.com)
 
 ## About Me: 
 - 👨🏼‍💻 I'm an Information Technology Student at the University of Cincinnati
@@ -27,5 +28,6 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio" width="26px" src="https://img.icons8.com/color/48/000000/visual-studio.png" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png" style="padding-right:10px;" />
+https://github-readme-stats.vercel.app/api/top-langs/?username={NathanBurns3}
 
 [Resume]: https://drive.google.com/file/d/1uy11GK_e6C5v-qbbClpXLhFEbW7V6SMb/view?usp=sharing
