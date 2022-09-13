@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/NathanBurns3/NathanBurns3/blob/main/Typing_Name.gif" alt="Hey there, I'm Nathan! 👋🏼">
-</p>
+<img src="https://github.com/NathanBurns3/NathanBurns3/blob/main/Typing_Name.gif" alt="Hey there, I'm Nathan! 👋🏼">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-burns-717802170/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/nathan.burnss/)
