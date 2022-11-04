@@ -6,7 +6,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/nathan.burnss/)
 
 ## About Me: 
-- 👨🏼‍💻 I'm an Information Technology Student at the University of Cincinnati
+- 👨🏼‍💻 I'm a Software Development Student at the University of Cincinnati
 - 🚀 I'm currently working on my personal website and some in-class projects (check out some of my repositories!)
 - 🤖 I'm wanting to learn more about automation and how I can use it on some of my daily tasks to make life easier
 - 📆 I'm looking for an internship/Co-op for the Summer 2023
