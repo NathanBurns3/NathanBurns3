@@ -7,9 +7,9 @@
 
 ## About Me: 
 - 👨🏼‍💻 I'm a Software Development Student at the University of Cincinnati
-- 🚀 I'm currently working on my personal website and some in-class projects (check out some of my repositories!)
+- 🚀 I just finished my portfolio site and I'm currently working on some personal projects (check out some of my repositories!)
 - 🤖 I'm wanting to learn more about automation and how I can use it on some of my daily tasks to make life easier
-- 📆 I'm looking for an internship/Co-op for the Summer 2023
+- 📆 I'm currently working at London Computer Systems as a Software Developer Intern
 - 📧 How to reach out to me: nate10nate@gmail.com
 - 📄 My [Resume]
 
