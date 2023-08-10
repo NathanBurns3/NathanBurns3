@@ -7,22 +7,24 @@
 
 ## About Me: 
 - 👨🏼‍💻 I'm a Software Development Student at the University of Cincinnati
-- 🚀 I just finished my portfolio site and I'm currently working on some personal projects (check out some of my repositories!)
+- 🚀 I just finished my [portfolio] site and I'm currently working on some personal projects (check out some of my repositories!)
 - 🤖 I'm wanting to learn more about automation and how I can use it on some of my daily tasks to make life easier
-- 📆 I'm currently working at London Computer Systems as a Software Developer Intern
+- 📆 I just finished working at London Computer Systems as a Software Developer Intern
 - 📧 How to reach out to me: nate10nate@gmail.com
 - 📄 My [Resume]
 
 ## Languages and Tools:
-<img align="left" alt="Java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" style="padding-right:10px;" />
-<img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python--v1.png" style="padding-right:10px;" />
 <img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C++" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" style="padding-right:10px;" />
+<img align="left" alt="Java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" style="padding-right:10px;" />
+<img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python--v1.png" style="padding-right:10px;" />
+<img align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt=".NET Core" width="26px" src="https://img.icons8.com/color/48/000000/net-framework.png" style="padding-right:10px;" />
 <img align="left" alt="SQL" width="26px" src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/64/000000/external-sql-server-big-data-wanicon-lineal-color-wanicon.png" style="padding-right:10px;" />
+<img align="left" alt="Angular" width="26px" src="https://img.icons8.com/color/48/000000/angularjs.png" style="padding-right:10px;" />
+<img align="left" alt=".NET Core" width="26px" src="https://img.icons8.com/color/48/000000/net-framework.png" style="padding-right:10px;" />
 <img align="left" alt="Intellij" width="26px" src="https://img.icons8.com/color/48/000000/intellij-idea.png" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio" width="26px" src="https://img.icons8.com/color/48/000000/visual-studio.png" style="padding-right:10px;" />
@@ -33,3 +35,4 @@
 <img align="left" alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanBurns3" />
 
 [Resume]: https://drive.google.com/file/d/1uy11GK_e6C5v-qbbClpXLhFEbW7V6SMb/view?usp=sharing
+[portfolio]: https://nathanburns.dev/
