@@ -5,7 +5,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-burns-717802170/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/nathan.burnss/)
 
-## About Me: 
+## About Me:
+
 - 👨🏼‍💻 I'm a Software Development Student at the University of Cincinnati
 - 🚀 I just finished my [portfolio] site and I'm currently working on some personal projects (check out some of my repositories!)
 - 🤖 I'm wanting to learn more about automation and how I can use it on some of my daily tasks to make life easier
@@ -14,6 +15,7 @@
 - 📄 My [Resume]
 
 ## Languages and Tools:
+
 <img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C++" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" style="padding-right:10px;" />
 <img align="left" alt="Java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" style="padding-right:10px;" />
@@ -25,13 +27,22 @@
 <img align="left" alt="SQL" width="26px" src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/64/000000/external-sql-server-big-data-wanicon-lineal-color-wanicon.png" style="padding-right:10px;" />
 <img align="left" alt="Angular" width="26px" src="https://img.icons8.com/color/48/000000/angularjs.png" style="padding-right:10px;" />
 <img align="left" alt=".NET Core" width="26px" src="https://img.icons8.com/color/48/000000/net-framework.png" style="padding-right:10px;" />
+<img align="left" alt="ASP.NET Core" width="26px" src="aspNet.jpg" style="padding-right:10px;" />
+<img align="left" alt="Entity" width="26px" src="entity.png" style="padding-right:10px;" />
+<img align="left" alt="Bootstrap" width="26px" src="bootstrap.png" style="padding-right:10px;" />
+<img align="left" alt="tailwind" width="26px" src="tailwind.png" style="padding-right:10px;" />
+<img align="left" alt="JUnit" width="26px" src="junit.png" style="padding-right:10px;" />
+<img align="left" alt="JavaFX" width="26px" src="javafx.png" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png" style="padding-right:10px;" />
+<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="Postman" width="26px" src="postman.png" style="padding-right:10px;" />
 <img align="left" alt="Intellij" width="26px" src="https://img.icons8.com/color/48/000000/intellij-idea.png" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio" width="26px" src="https://img.icons8.com/color/48/000000/visual-studio.png" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png" style="padding-right:10px;" />
-<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="padding-right:10px;" /><br>
+<img align="left" alt="Jira" width="26px" src="jira.webp" style="padding-right:10px;" /><br>
 
 ##
+
 <img align="left" alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanBurns3" />
 
 [Resume]: https://drive.google.com/file/d/1uy11GK_e6C5v-qbbClpXLhFEbW7V6SMb/view?usp=sharing
