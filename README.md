@@ -32,7 +32,7 @@
 
 <img align="left" alt="Angular" width="32px" src="https://img.icons8.com/color/48/000000/angularjs.png" style="padding-right:10px;" />
 <img align="left" alt=".NET Core" width="32px" src="https://img.icons8.com/color/48/000000/net-framework.png" style="padding-right:10px;" />
-<img align="left" alt="ASP.NET Core" width="32px" src="aspnet.png" style="padding-right:10px;" />
+<img align="left" alt="ASP.NET Core" width="32px" src="aspNet.jpg" style="padding-right:10px;" />
 <img align="left" alt="Entity" width="32px" src="entity.png" style="padding-right:10px;" />
 <img align="left" alt="Bootstrap" width="32px" src="bootstrap.png" style="padding-right:10px;" />
 <img align="left" alt="tailwind" width="32px" src="tailwind.png" style="padding-right:10px;" />
