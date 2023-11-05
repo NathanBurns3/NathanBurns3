@@ -16,7 +16,7 @@
 
 ## Skills:
 
-# Languages
+### Languages
 
 <img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C++" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" style="padding-right:10px;" />
@@ -28,7 +28,7 @@
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="SQL" width="26px" src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/64/000000/external-sql-server-big-data-wanicon-lineal-color-wanicon.png" style="padding-right:10px;" /><br>
 
-# Frameworks
+### Frameworks
 
 <img align="left" alt="Angular" width="26px" src="https://img.icons8.com/color/48/000000/angularjs.png" style="padding-right:10px;" />
 <img align="left" alt=".NET Core" width="26px" src="https://img.icons8.com/color/48/000000/net-framework.png" style="padding-right:10px;" />
@@ -39,7 +39,7 @@
 <img align="left" alt="JUnit" width="26px" src="junit.png" style="padding-right:10px;" />
 <img align="left" alt="JavaFX" width="26px" src="javafx.png" style="padding-right:10px;" /><br>
 
-# Tools
+### Tools
 
 <img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png" style="padding-right:10px;" />
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="padding-right:10px;" />
