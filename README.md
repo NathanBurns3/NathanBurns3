@@ -34,24 +34,31 @@
 <img align="left" alt=".NET Core" width="32px" src="https://img.icons8.com/color/48/000000/net-framework.png" style="padding-right:10px;" />
 <img align="left" alt="ASP.NET Core" width="32px" src="aspnet.png" style="padding-right:10px;" />
 <img align="left" alt="Entity" width="32px" src="entity.png" style="padding-right:10px; vertical-align: middle;" />
+<img align="left" alt="Maui" width="32px" src="maui.png" style="padding-right:10px;" />
+<img align="left" alt="Xamarin" width="32px" src="xamarin.png" style="padding-right:10px;" />
 <img align="left" alt="Bootstrap" width="32px" src="bootstrap.png" style="padding-right:10px; vertical-align: middle;" />
 <img align="left" alt="tailwind" width="32px" src="tailwind.png" style="padding-right:10px; vertical-align: middle;" />
 <img align="left" alt="JUnit" width="32px" src="junit.png" style="padding-right:10px;" />
-<img align="left" alt="JavaFX" width="32px" src="javafx.png" style="padding-right:10px;" /><br>
+<img align="left" alt="JavaFX" width="32px" src="javafx.png" style="padding-right:10px;" />
+<img align="left" alt="Phaser" width="32px" src="phaser.png" style="padding-right:10px;" /><br>
 
 ### Tools
 
 <img align="left" alt="Git" width="32px" src="https://img.icons8.com/color/48/000000/git.png" style="padding-right:10px;" />
 <img align="left" alt="Docker" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="Postman" width="32px" src="postman.png" style="padding-right:10px;" />
+<img align="left" alt="SSMS" width="32px" src="ssms.png" style="padding-right:10px;" />
+<img align="left" alt="HeidiSQL" width="32px" src="heidi.png" style="padding-right:10px;" />
+<img align="left" alt="Azure Data Studio" width="32px" src="ads.jpeg" style="padding-right:10px;" />
 <img align="left" alt="Intellij" width="32px" src="https://img.icons8.com/color/48/000000/intellij-idea.png" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio" width="32px" src="https://img.icons8.com/color/48/000000/visual-studio.png" style="padding-right:10px;" />
-<img align="left" alt="Jira" width="32px" src="jira.webp" style="padding-right:10px;" /><br>
+<img align="left" alt="Jira" width="32px" src="jira.webp" style="padding-right:10px;" />
+<img align="left" alt="Azure Dev Ops" width="32px" src="ado.jpeg" style="padding-right:10px;" /><br>
 
 ##
 
 <img align="left" alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanBurns3" />
 
-[Resume]: https://drive.google.com/file/d/1uy11GK_e6C5v-qbbClpXLhFEbW7V6SMb/view?usp=sharing
+[Resume]: https://drive.google.com/file/d/1ZjCzsepmwDhFgs12Y2_DtNg8baN_SgUB/view?usp=sharing
 [portfolio]: https://nathanburns.dev/
