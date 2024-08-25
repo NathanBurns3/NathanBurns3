@@ -60,5 +60,5 @@
 
 <img align="left" alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanBurns3" />
 
-[Resume]: [https://drive.google.com/file/d/1ZjCzsepmwDhFgs12Y2_DtNg8baN_SgUB/view?usp=sharing](https://drive.google.com/file/d/1zcjrV--7h9K7PYapfI4u6frmU7Ow-wrt/view?usp=drive_link)
+[Resume]: https://drive.google.com/file/d/1ZjCzsepmwDhFgs12Y2_DtNg8baN_SgUB/view?usp=sharing
 [portfolio]: https://nathanburns.dev/
