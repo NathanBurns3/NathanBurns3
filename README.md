@@ -28,7 +28,7 @@
 <img align="left" alt="CSS3" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="SQL" width="32px" src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/64/000000/external-sql-server-big-data-wanicon-lineal-color-wanicon.png" style="padding-right:10px;" /><br>
 
-### Frameworks
+### Frameworks and Libraries
 
 <img align="left" alt="Angular" width="32px" src="https://img.icons8.com/color/48/000000/angularjs.png" style="padding-right:10px;" />
 <img align="left" alt=".NET Core" width="32px" src="https://img.icons8.com/color/48/000000/net-framework.png" style="padding-right:10px;" />
@@ -40,7 +40,8 @@
 <img align="left" alt="tailwind" width="32px" src="tailwind.png" style="padding-right:10px; vertical-align: middle;" />
 <img align="left" alt="JUnit" width="32px" src="junit.png" style="padding-right:10px;" />
 <img align="left" alt="JavaFX" width="32px" src="javafx.png" style="padding-right:10px;" />
-<img align="left" alt="Phaser" width="32px" src="phaser.png" style="padding-right:10px;" /><br>
+<img align="left" alt="Phaser" width="32px" src="phaser.png" style="padding-right:10px;" /><be>
+<img align="left" alt="ExpressJS" width="32px" src="https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=000000" style="padding-right:10px;" />
 
 ### Tools
 
@@ -54,7 +55,11 @@
 <img align="left" alt="Visual Studio Code" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio" width="32px" src="https://img.icons8.com/color/48/000000/visual-studio.png" style="padding-right:10px;" />
 <img align="left" alt="Jira" width="32px" src="jira.webp" style="padding-right:10px;" />
-<img align="left" alt="Azure Dev Ops" width="32px" src="ado.jpeg" style="padding-right:10px;" /><br>
+<img align="left" alt="Azure Dev Ops" width="32px" src="ado.jpeg" style="padding-right:10px;" /><be>
+<img align="left" alt="MySQL" width="32px" src="https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000" style="padding-right:10px;" />
+<img align="left" alt="Jupyter" width="32px" src="https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000" style="padding-right:10px;" />
+<img align="left" alt="MongoDB" width="32px" src="https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000" style="padding-right:10px;" />
+<img align="left" alt="SQLite" width="32px" src="https://img.icons8.com/?size=100&id=VMRAbKfEzssG&format=png&color=000000" style="padding-right:10px;" />
 
 ##
 
