@@ -13,52 +13,52 @@
 - 📧 How to reach out to me: nate10nate@gmail.com
 - 📄 My [Resume]
 
-## Skills:
+## Skills
 
 ### Languages
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/>
+  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" width="40" height="40" alt="C++"/>
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" width="40" height="40" alt="Java"/>
+  <img src="https://img.icons8.com/color/48/python--v1.png" width="40" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40" alt="Go"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
+  <img src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/64/external-sql-server-big-data-wanicon-lineal-color-wanicon.png" width="40" height="40" alt="SQL"/>
+</p>
 
-<img align="left" alt="C#" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
-<img align="left" alt="C++" width="32px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" style="padding-right:10px;" />
-<img align="left" alt="Java" width="32px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" style="padding-right:10px;" />
-<img align="left" alt="Python" width="32px" src="https://img.icons8.com/color/48/000000/python--v1.png" style="padding-right:10px;" />
-<img align="left" alt="TypeScript" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="SQL" width="32px" src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/64/000000/external-sql-server-big-data-wanicon-lineal-color-wanicon.png" style="padding-right:10px;" /><br>
+### Frameworks & Libraries
+<p>
+  <img src="https://img.icons8.com/color/48/angularjs.png" width="40" height="40" alt="Angular"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="40" height="40" alt="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI"/>
+  <img src="https://img.icons8.com/color/48/net-framework.png" width="40" height="40" alt=".NET Core"/>
+  <img src="https://img.icons8.com/color/48/bootstrap.png" width="40" height="40" alt="Bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" alt="Tailwind"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rxjs/rxjs-original.svg" width="40" height="40" alt="RxJS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" height="40" alt="Jest"/>
+</p>
 
-### Frameworks and Libraries
-
-<img align="left" alt="Angular" width="32px" src="https://img.icons8.com/color/48/000000/angularjs.png" style="padding-right:10px;" />
-<img align="left" alt=".NET Core" width="32px" src="https://img.icons8.com/color/48/000000/net-framework.png" style="padding-right:10px;" />
-<img align="left" alt="ASP.NET Core" width="32px" src="aspnet.png" style="padding-right:10px;" />
-<img align="left" alt="Entity" width="32px" src="entity.png" style="padding-right:10px; vertical-align: middle;" />
-<img align="left" alt="Maui" width="32px" src="maui.png" style="padding-right:10px;" />
-<img align="left" alt="Xamarin" width="32px" src="xamarin.png" style="padding-right:10px;" />
-<img align="left" alt="Bootstrap" width="32px" src="bootstrap.png" style="padding-right:10px; vertical-align: middle;" />
-<img align="left" alt="tailwind" width="32px" src="tailwind.png" style="padding-right:10px; vertical-align: middle;" />
-<img align="left" alt="JUnit" width="32px" src="junit.png" style="padding-right:10px;" />
-<img align="left" alt="JavaFX" width="32px" src="javafx.png" style="padding-right:10px;" />
-<img align="left" alt="Phaser" width="32px" src="phaser.png" style="padding-right:10px;" />
-<img align="left" alt="ExpressJS" width="32px" src="https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=000000" style="padding-right:10px;" /><br>
-
-### Tools
-
-<img align="left" alt="Git" width="32px" src="https://img.icons8.com/color/48/000000/git.png" style="padding-right:10px;" />
-<img align="left" alt="Docker" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="padding-right:10px;" />
-<img align="left" alt="Postman" width="32px" src="postman.png" style="padding-right:10px;" />
-<img align="left" alt="SSMS" width="32px" src="ssms.png" style="padding-right:10px;" />
-<img align="left" alt="HeidiSQL" width="32px" src="heidi.png" style="padding-right:10px;" />
-<img align="left" alt="Azure Data Studio" width="32px" src="ads.jpeg" style="padding-right:10px;" />
-<img align="left" alt="Intellij" width="32px" src="https://img.icons8.com/color/48/000000/intellij-idea.png" style="padding-right:10px;" />
-<img align="left" alt="Visual Studio Code" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Visual Studio" width="32px" src="https://img.icons8.com/color/48/000000/visual-studio.png" style="padding-right:10px;" />
-<img align="left" alt="Jira" width="32px" src="jira.webp" style="padding-right:10px;" />
-<img align="left" alt="Azure Dev Ops" width="32px" src="ado.jpeg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="32px" src="https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000" style="padding-right:10px;" />
-<img align="left" alt="Jupyter" width="32px" src="https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000" style="padding-right:10px;" />
-<img align="left" alt="MongoDB" width="32px" src="https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000" style="padding-right:10px;" />
-<img align="left" alt="SQLite" width="32px" src="https://img.icons8.com/?size=100&id=VMRAbKfEzssG&format=png&color=000000" style="padding-right:10px;" /><br>
+### Tools & Platforms
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" height="40" alt="NGINX"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" alt="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
+  <img src="https://img.icons8.com/?size=100&id=H3tL9t3C8nEy&format=png&color=000000" width="40" height="40" alt="Supabase"/>
+  <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" width="40" height="40" alt="SSMS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40" alt="Azure Data Studio"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40" alt="Jira"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Jupyter"/>
+</p>
 
 ##
 
