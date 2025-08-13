@@ -53,11 +53,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
-  <img src="https://brandslogos.com/wp-content/uploads/images/large/supabase-logo.png" width="40" height="40" style="background-color:white; padding:5px; border-radius:5px;" alt="Supabase"/>
+  <img src="./supabase.png" alt="Supabase" width="40px" />
   <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" width="40" height="40" alt="SSMS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40" alt="Azure Data Studio"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40" alt="Jira"/>
-  <img src="./jupyter.png" alt="Jupyter" width="40px" />
 </p>
 
 ##
