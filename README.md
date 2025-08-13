@@ -33,8 +33,8 @@
 <p>
   <img src="https://img.icons8.com/color/48/angularjs.png" width="40" height="40" alt="Angular"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40" style="background-color:white; padding:5px; border-radius:5px;" alt="Next.js"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="40" height="40" style="background-color:white; padding:5px; border-radius:5px;" alt="Express.js"/>
+  <img src="./next-js.png" alt="Next.js" width="40px" />
+  <img src="./express-js.png" alt="Express.js" width="40px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI"/>
   <img src="https://img.icons8.com/color/48/net-framework.png" width="40" height="40" alt=".NET Core"/>
   <img src="https://img.icons8.com/color/48/bootstrap.png" width="40" height="40" alt="Bootstrap"/>
@@ -49,7 +49,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" height="40" alt="NGINX"/>
- <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="40" height="40" style="background-color:white; padding:5px; border-radius:5px;" alt="AWS"/>
+  <img src="./aws.png" alt="AWS" width="40px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
@@ -57,7 +57,7 @@
   <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" width="40" height="40" alt="SSMS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40" alt="Azure Data Studio"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40" alt="Jira"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="40" height="40" style="background-color:white; padding:5px; border-radius:5px;" alt="Jupyter"/>
+  <img src="./jupyter.png" alt="Jupyter" width="40px" />
 </p>
 
 ##
