@@ -9,8 +9,7 @@
 
 - 👨🏼‍💻 I'm a Software Development Student at the University of Cincinnati
 - 🚀 Check out my [portfolio] site! I'm also working on some personal projects - check out some of my repositories!
-- 🤖 I want to learn more about automation and how I can use it on some of my daily tasks to make life easier
-- 📆 I just finished working at London Computer Systems as a Software Developer Intern
+- 📆 I just finished working at London Computer Systems as a Software Developer Intern (5 Co-ops / 1.5 years)
 - 📧 How to reach out to me: nate10nate@gmail.com
 - 📄 My [Resume]
 
@@ -65,5 +64,5 @@
 
 <img align="left" alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanBurns3" />
 
-[Resume]: https://drive.google.com/file/d/1zcjrV--7h9K7PYapfI4u6frmU7Ow-wrt/view?usp=drive_link
+[Resume]: https://drive.google.com/file/d/1hiWYV2_wpZv2rPJwt55fz7jyNZ6mfmVV/view?usp=drive_link
 [portfolio]: https://nathanburns.dev/
